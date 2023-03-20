@@ -61,13 +61,16 @@ namespace Thread___20._3
             //4
 
 
-
+            System system = new System();
+            system.newUzivatel("Joe", "123456", Prava.ADMINISTRATOR);
+            Console.WriteLine("jej");
+            system.newUzivatel("Joe", "1234", Prava.VSECHNA);
 
 
 
 
         }
-
+        /*
         private static void ListGen(ConcurrentBag<int> cb)
         {
             Random random = new Random();
@@ -106,5 +109,6 @@ namespace Thread___20._3
             }
             Console.WriteLine(citac.ToString());
         }
+        */
     }
 }

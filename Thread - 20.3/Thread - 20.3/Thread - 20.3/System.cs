@@ -21,10 +21,21 @@ namespace Thread___20._3
             uzivatele = new List<Uziatel>();
         }
 
-        public void newUzivatel()
+        public void newUzivatel(string jmeno, string heslo, Prava prava)
         {
-
+            foreach(Uziatel uzivatel in uzivatele)
+            {
+                if (uzivatel.Jmeno == jmeno)
+                {
+                    Console.WriteLine("Erorr you can't use this name");
+                    break;
+                }
+            }
+            uzivatele.Add(new Uziatel(jmeno, heslo, prava));
+            
         }
+
+
 
     }
 }
