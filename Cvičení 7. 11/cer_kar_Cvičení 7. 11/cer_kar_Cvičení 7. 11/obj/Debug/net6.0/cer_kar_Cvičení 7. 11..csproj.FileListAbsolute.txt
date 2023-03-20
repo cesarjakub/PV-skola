@@ -1,0 +1,15 @@
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\bin\Debug\net6.0\cer_kar_Cvičení 7. 11..exe
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\bin\Debug\net6.0\cer_kar_Cvičení 7. 11..deps.json
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\bin\Debug\net6.0\cer_kar_Cvičení 7. 11..runtimeconfig.json
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\bin\Debug\net6.0\cer_kar_Cvičení 7. 11..dll
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\bin\Debug\net6.0\cer_kar_Cvičení 7. 11..pdb
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\obj\Debug\net6.0\cer_kar_Cvičení 7. 11..csproj.AssemblyReference.cache
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\obj\Debug\net6.0\cer_kar_Cvičení 7. 11..GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\obj\Debug\net6.0\cer_kar_Cvičení 7. 11..AssemblyInfoInputs.cache
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\obj\Debug\net6.0\cer_kar_Cvičení 7. 11..AssemblyInfo.cs
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\obj\Debug\net6.0\cer_kar_Cvičení 7. 11..csproj.CoreCompileInputs.cache
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\obj\Debug\net6.0\cer_kar_Cvičení 7. 11..dll
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\obj\Debug\net6.0\refint\cer_kar_Cvičení 7. 11..dll
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\obj\Debug\net6.0\cer_kar_Cvičení 7. 11..pdb
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\obj\Debug\net6.0\cer_kar_Cvičení 7. 11..genruntimeconfig.cache
+M:\C3b-VA\Cvičení 7. 11\cer_kar_Cvičení 7. 11\cer_kar_Cvičení 7. 11\obj\Debug\net6.0\ref\cer_kar_Cvičení 7. 11..dll

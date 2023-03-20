@@ -1,0 +1,15 @@
+M:\C3b-VA\listy\Pole_List\Pole_List\bin\Debug\net6.0\Pole_List.exe
+M:\C3b-VA\listy\Pole_List\Pole_List\bin\Debug\net6.0\Pole_List.deps.json
+M:\C3b-VA\listy\Pole_List\Pole_List\bin\Debug\net6.0\Pole_List.runtimeconfig.json
+M:\C3b-VA\listy\Pole_List\Pole_List\bin\Debug\net6.0\Pole_List.dll
+M:\C3b-VA\listy\Pole_List\Pole_List\bin\Debug\net6.0\Pole_List.pdb
+M:\C3b-VA\listy\Pole_List\Pole_List\obj\Debug\net6.0\Pole_List.csproj.AssemblyReference.cache
+M:\C3b-VA\listy\Pole_List\Pole_List\obj\Debug\net6.0\Pole_List.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-VA\listy\Pole_List\Pole_List\obj\Debug\net6.0\Pole_List.AssemblyInfoInputs.cache
+M:\C3b-VA\listy\Pole_List\Pole_List\obj\Debug\net6.0\Pole_List.AssemblyInfo.cs
+M:\C3b-VA\listy\Pole_List\Pole_List\obj\Debug\net6.0\Pole_List.csproj.CoreCompileInputs.cache
+M:\C3b-VA\listy\Pole_List\Pole_List\obj\Debug\net6.0\Pole_List.dll
+M:\C3b-VA\listy\Pole_List\Pole_List\obj\Debug\net6.0\refint\Pole_List.dll
+M:\C3b-VA\listy\Pole_List\Pole_List\obj\Debug\net6.0\Pole_List.pdb
+M:\C3b-VA\listy\Pole_List\Pole_List\obj\Debug\net6.0\Pole_List.genruntimeconfig.cache
+M:\C3b-VA\listy\Pole_List\Pole_List\obj\Debug\net6.0\ref\Pole_List.dll

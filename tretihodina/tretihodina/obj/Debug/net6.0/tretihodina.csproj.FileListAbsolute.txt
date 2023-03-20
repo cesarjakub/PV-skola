@@ -1,0 +1,15 @@
+M:\C3b-VA\tretihodina\tretihodina\bin\Debug\net6.0\tretihodina.exe
+M:\C3b-VA\tretihodina\tretihodina\bin\Debug\net6.0\tretihodina.deps.json
+M:\C3b-VA\tretihodina\tretihodina\bin\Debug\net6.0\tretihodina.runtimeconfig.json
+M:\C3b-VA\tretihodina\tretihodina\bin\Debug\net6.0\tretihodina.dll
+M:\C3b-VA\tretihodina\tretihodina\bin\Debug\net6.0\tretihodina.pdb
+M:\C3b-VA\tretihodina\tretihodina\obj\Debug\net6.0\tretihodina.csproj.AssemblyReference.cache
+M:\C3b-VA\tretihodina\tretihodina\obj\Debug\net6.0\tretihodina.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-VA\tretihodina\tretihodina\obj\Debug\net6.0\tretihodina.AssemblyInfoInputs.cache
+M:\C3b-VA\tretihodina\tretihodina\obj\Debug\net6.0\tretihodina.AssemblyInfo.cs
+M:\C3b-VA\tretihodina\tretihodina\obj\Debug\net6.0\tretihodina.csproj.CoreCompileInputs.cache
+M:\C3b-VA\tretihodina\tretihodina\obj\Debug\net6.0\tretihodina.dll
+M:\C3b-VA\tretihodina\tretihodina\obj\Debug\net6.0\refint\tretihodina.dll
+M:\C3b-VA\tretihodina\tretihodina\obj\Debug\net6.0\tretihodina.pdb
+M:\C3b-VA\tretihodina\tretihodina\obj\Debug\net6.0\tretihodina.genruntimeconfig.cache
+M:\C3b-VA\tretihodina\tretihodina\obj\Debug\net6.0\ref\tretihodina.dll

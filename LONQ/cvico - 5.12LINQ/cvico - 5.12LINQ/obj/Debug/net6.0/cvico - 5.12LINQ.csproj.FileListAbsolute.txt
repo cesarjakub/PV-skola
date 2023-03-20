@@ -1,0 +1,15 @@
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\bin\Debug\net6.0\cvico - 5.12LINQ.exe
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\bin\Debug\net6.0\cvico - 5.12LINQ.deps.json
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\bin\Debug\net6.0\cvico - 5.12LINQ.runtimeconfig.json
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\bin\Debug\net6.0\cvico - 5.12LINQ.dll
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\bin\Debug\net6.0\cvico - 5.12LINQ.pdb
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\obj\Debug\net6.0\cvico - 5.12LINQ.csproj.AssemblyReference.cache
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\obj\Debug\net6.0\cvico - 5.12LINQ.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\obj\Debug\net6.0\cvico - 5.12LINQ.AssemblyInfoInputs.cache
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\obj\Debug\net6.0\cvico - 5.12LINQ.AssemblyInfo.cs
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\obj\Debug\net6.0\cvico - 5.12LINQ.csproj.CoreCompileInputs.cache
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\obj\Debug\net6.0\cvico - 5.12LINQ.dll
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\obj\Debug\net6.0\refint\cvico - 5.12LINQ.dll
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\obj\Debug\net6.0\cvico - 5.12LINQ.pdb
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\obj\Debug\net6.0\cvico - 5.12LINQ.genruntimeconfig.cache
+M:\C3b-VA\LONQ\cvico - 5.12LINQ\cvico - 5.12LINQ\obj\Debug\net6.0\ref\cvico - 5.12LINQ.dll

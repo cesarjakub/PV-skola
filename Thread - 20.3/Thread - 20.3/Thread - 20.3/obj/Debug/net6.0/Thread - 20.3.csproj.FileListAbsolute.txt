@@ -1,0 +1,15 @@
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\bin\Debug\net6.0\Thread - 20.3.exe
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\bin\Debug\net6.0\Thread - 20.3.deps.json
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\bin\Debug\net6.0\Thread - 20.3.runtimeconfig.json
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\bin\Debug\net6.0\Thread - 20.3.dll
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\bin\Debug\net6.0\Thread - 20.3.pdb
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\obj\Debug\net6.0\Thread - 20.3.csproj.AssemblyReference.cache
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\obj\Debug\net6.0\Thread - 20.3.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\obj\Debug\net6.0\Thread - 20.3.AssemblyInfoInputs.cache
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\obj\Debug\net6.0\Thread - 20.3.AssemblyInfo.cs
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\obj\Debug\net6.0\Thread - 20.3.csproj.CoreCompileInputs.cache
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\obj\Debug\net6.0\Thread - 20.3.dll
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\obj\Debug\net6.0\refint\Thread - 20.3.dll
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\obj\Debug\net6.0\Thread - 20.3.pdb
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\obj\Debug\net6.0\Thread - 20.3.genruntimeconfig.cache
+M:\C3b-PV\Thread - 20.3\Thread - 20.3\Thread - 20.3\obj\Debug\net6.0\ref\Thread - 20.3.dll

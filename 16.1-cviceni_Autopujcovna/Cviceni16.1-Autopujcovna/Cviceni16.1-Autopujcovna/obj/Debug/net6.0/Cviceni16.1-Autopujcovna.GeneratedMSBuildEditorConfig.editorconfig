@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cviceni16._1_Autopujcovna
+build_property.ProjectDir = M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\

@@ -1,0 +1,15 @@
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\bin\Debug\net6.0\PrihlaseniSoubor.exe
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\bin\Debug\net6.0\PrihlaseniSoubor.deps.json
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\bin\Debug\net6.0\PrihlaseniSoubor.runtimeconfig.json
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\bin\Debug\net6.0\PrihlaseniSoubor.dll
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\bin\Debug\net6.0\PrihlaseniSoubor.pdb
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\obj\Debug\net6.0\PrihlaseniSoubor.csproj.AssemblyReference.cache
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\obj\Debug\net6.0\PrihlaseniSoubor.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\obj\Debug\net6.0\PrihlaseniSoubor.AssemblyInfoInputs.cache
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\obj\Debug\net6.0\PrihlaseniSoubor.AssemblyInfo.cs
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\obj\Debug\net6.0\PrihlaseniSoubor.csproj.CoreCompileInputs.cache
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\obj\Debug\net6.0\PrihlaseniSoubor.dll
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\obj\Debug\net6.0\refint\PrihlaseniSoubor.dll
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\obj\Debug\net6.0\PrihlaseniSoubor.pdb
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\obj\Debug\net6.0\PrihlaseniSoubor.genruntimeconfig.cache
+M:\C3b-PV\2301_Cviceni_SouborPrihlaseni\PrihlaseniSoubor\PrihlaseniSoubor\obj\Debug\net6.0\ref\PrihlaseniSoubor.dll

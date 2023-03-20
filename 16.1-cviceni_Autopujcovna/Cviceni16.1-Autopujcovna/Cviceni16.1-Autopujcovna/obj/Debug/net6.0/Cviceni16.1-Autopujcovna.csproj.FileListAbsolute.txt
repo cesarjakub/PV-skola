@@ -1,0 +1,15 @@
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\bin\Debug\net6.0\Cviceni16.1-Autopujcovna.exe
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\bin\Debug\net6.0\Cviceni16.1-Autopujcovna.deps.json
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\bin\Debug\net6.0\Cviceni16.1-Autopujcovna.runtimeconfig.json
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\bin\Debug\net6.0\Cviceni16.1-Autopujcovna.dll
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\bin\Debug\net6.0\Cviceni16.1-Autopujcovna.pdb
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\obj\Debug\net6.0\Cviceni16.1-Autopujcovna.csproj.AssemblyReference.cache
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\obj\Debug\net6.0\Cviceni16.1-Autopujcovna.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\obj\Debug\net6.0\Cviceni16.1-Autopujcovna.AssemblyInfoInputs.cache
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\obj\Debug\net6.0\Cviceni16.1-Autopujcovna.AssemblyInfo.cs
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\obj\Debug\net6.0\Cviceni16.1-Autopujcovna.csproj.CoreCompileInputs.cache
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\obj\Debug\net6.0\Cviceni16.1-Autopujcovna.dll
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\obj\Debug\net6.0\refint\Cviceni16.1-Autopujcovna.dll
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\obj\Debug\net6.0\Cviceni16.1-Autopujcovna.pdb
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\obj\Debug\net6.0\Cviceni16.1-Autopujcovna.genruntimeconfig.cache
+M:\C3b-PV\16.1-cviceni_Autopujcovna\Cviceni16.1-Autopujcovna\Cviceni16.1-Autopujcovna\obj\Debug\net6.0\ref\Cviceni16.1-Autopujcovna.dll

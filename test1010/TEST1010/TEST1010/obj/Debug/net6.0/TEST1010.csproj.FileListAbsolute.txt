@@ -1,0 +1,15 @@
+M:\C3b-VA\test1010\TEST1010\TEST1010\bin\Debug\net6.0\TEST1010.exe
+M:\C3b-VA\test1010\TEST1010\TEST1010\bin\Debug\net6.0\TEST1010.deps.json
+M:\C3b-VA\test1010\TEST1010\TEST1010\bin\Debug\net6.0\TEST1010.runtimeconfig.json
+M:\C3b-VA\test1010\TEST1010\TEST1010\bin\Debug\net6.0\TEST1010.dll
+M:\C3b-VA\test1010\TEST1010\TEST1010\bin\Debug\net6.0\TEST1010.pdb
+M:\C3b-VA\test1010\TEST1010\TEST1010\obj\Debug\net6.0\TEST1010.csproj.AssemblyReference.cache
+M:\C3b-VA\test1010\TEST1010\TEST1010\obj\Debug\net6.0\TEST1010.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-VA\test1010\TEST1010\TEST1010\obj\Debug\net6.0\TEST1010.AssemblyInfoInputs.cache
+M:\C3b-VA\test1010\TEST1010\TEST1010\obj\Debug\net6.0\TEST1010.AssemblyInfo.cs
+M:\C3b-VA\test1010\TEST1010\TEST1010\obj\Debug\net6.0\TEST1010.csproj.CoreCompileInputs.cache
+M:\C3b-VA\test1010\TEST1010\TEST1010\obj\Debug\net6.0\TEST1010.dll
+M:\C3b-VA\test1010\TEST1010\TEST1010\obj\Debug\net6.0\refint\TEST1010.dll
+M:\C3b-VA\test1010\TEST1010\TEST1010\obj\Debug\net6.0\TEST1010.pdb
+M:\C3b-VA\test1010\TEST1010\TEST1010\obj\Debug\net6.0\TEST1010.genruntimeconfig.cache
+M:\C3b-VA\test1010\TEST1010\TEST1010\obj\Debug\net6.0\ref\TEST1010.dll

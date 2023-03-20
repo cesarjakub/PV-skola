@@ -1,0 +1,15 @@
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\bin\Debug\net6.0\pretezovanioperatoru.exe
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\bin\Debug\net6.0\pretezovanioperatoru.deps.json
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\bin\Debug\net6.0\pretezovanioperatoru.runtimeconfig.json
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\bin\Debug\net6.0\pretezovanioperatoru.dll
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\bin\Debug\net6.0\pretezovanioperatoru.pdb
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\obj\Debug\net6.0\pretezovanioperatoru.csproj.AssemblyReference.cache
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\obj\Debug\net6.0\pretezovanioperatoru.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\obj\Debug\net6.0\pretezovanioperatoru.AssemblyInfoInputs.cache
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\obj\Debug\net6.0\pretezovanioperatoru.AssemblyInfo.cs
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\obj\Debug\net6.0\pretezovanioperatoru.csproj.CoreCompileInputs.cache
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\obj\Debug\net6.0\pretezovanioperatoru.dll
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\obj\Debug\net6.0\refint\pretezovanioperatoru.dll
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\obj\Debug\net6.0\pretezovanioperatoru.pdb
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\obj\Debug\net6.0\pretezovanioperatoru.genruntimeconfig.cache
+M:\C3b-VA\ctvrtahodian\pretezovanioperatoru\pretezovanioperatoru\obj\Debug\net6.0\ref\pretezovanioperatoru.dll

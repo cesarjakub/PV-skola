@@ -1,0 +1,15 @@
+M:\C3b-vs\druhahodina\druhahodina\bin\Debug\net6.0\druhahodina.exe
+M:\C3b-vs\druhahodina\druhahodina\bin\Debug\net6.0\druhahodina.deps.json
+M:\C3b-vs\druhahodina\druhahodina\bin\Debug\net6.0\druhahodina.runtimeconfig.json
+M:\C3b-vs\druhahodina\druhahodina\bin\Debug\net6.0\druhahodina.dll
+M:\C3b-vs\druhahodina\druhahodina\bin\Debug\net6.0\druhahodina.pdb
+M:\C3b-vs\druhahodina\druhahodina\obj\Debug\net6.0\druhahodina.csproj.AssemblyReference.cache
+M:\C3b-vs\druhahodina\druhahodina\obj\Debug\net6.0\druhahodina.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-vs\druhahodina\druhahodina\obj\Debug\net6.0\druhahodina.AssemblyInfoInputs.cache
+M:\C3b-vs\druhahodina\druhahodina\obj\Debug\net6.0\druhahodina.AssemblyInfo.cs
+M:\C3b-vs\druhahodina\druhahodina\obj\Debug\net6.0\druhahodina.csproj.CoreCompileInputs.cache
+M:\C3b-vs\druhahodina\druhahodina\obj\Debug\net6.0\druhahodina.dll
+M:\C3b-vs\druhahodina\druhahodina\obj\Debug\net6.0\refint\druhahodina.dll
+M:\C3b-vs\druhahodina\druhahodina\obj\Debug\net6.0\druhahodina.pdb
+M:\C3b-vs\druhahodina\druhahodina\obj\Debug\net6.0\druhahodina.genruntimeconfig.cache
+M:\C3b-vs\druhahodina\druhahodina\obj\Debug\net6.0\ref\druhahodina.dll

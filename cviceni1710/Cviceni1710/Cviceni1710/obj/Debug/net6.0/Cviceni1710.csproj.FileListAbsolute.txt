@@ -1,0 +1,15 @@
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\bin\Debug\net6.0\Cviceni1710.exe
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\bin\Debug\net6.0\Cviceni1710.deps.json
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\bin\Debug\net6.0\Cviceni1710.runtimeconfig.json
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\bin\Debug\net6.0\Cviceni1710.dll
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\bin\Debug\net6.0\Cviceni1710.pdb
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\obj\Debug\net6.0\Cviceni1710.csproj.AssemblyReference.cache
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\obj\Debug\net6.0\Cviceni1710.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\obj\Debug\net6.0\Cviceni1710.AssemblyInfoInputs.cache
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\obj\Debug\net6.0\Cviceni1710.AssemblyInfo.cs
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\obj\Debug\net6.0\Cviceni1710.csproj.CoreCompileInputs.cache
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\obj\Debug\net6.0\Cviceni1710.dll
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\obj\Debug\net6.0\refint\Cviceni1710.dll
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\obj\Debug\net6.0\Cviceni1710.pdb
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\obj\Debug\net6.0\Cviceni1710.genruntimeconfig.cache
+M:\C3b-VA\cviceni1710\Cviceni1710\Cviceni1710\obj\Debug\net6.0\ref\Cviceni1710.dll

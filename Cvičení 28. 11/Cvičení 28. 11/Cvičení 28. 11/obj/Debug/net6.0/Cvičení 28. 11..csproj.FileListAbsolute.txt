@@ -1,0 +1,15 @@
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\obj\Debug\net6.0\Cvičení 28. 11..csproj.AssemblyReference.cache
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\obj\Debug\net6.0\Cvičení 28. 11..GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\obj\Debug\net6.0\Cvičení 28. 11..AssemblyInfoInputs.cache
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\obj\Debug\net6.0\Cvičení 28. 11..AssemblyInfo.cs
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\obj\Debug\net6.0\Cvičení 28. 11..csproj.CoreCompileInputs.cache
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\bin\Debug\net6.0\Cvičení 28. 11..exe
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\bin\Debug\net6.0\Cvičení 28. 11..deps.json
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\bin\Debug\net6.0\Cvičení 28. 11..runtimeconfig.json
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\bin\Debug\net6.0\Cvičení 28. 11..dll
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\bin\Debug\net6.0\Cvičení 28. 11..pdb
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\obj\Debug\net6.0\Cvičení 28. 11..dll
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\obj\Debug\net6.0\refint\Cvičení 28. 11..dll
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\obj\Debug\net6.0\Cvičení 28. 11..pdb
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\obj\Debug\net6.0\Cvičení 28. 11..genruntimeconfig.cache
+M:\C3b-VA\Cvičení 28. 11\Cvičení 28. 11\Cvičení 28. 11\obj\Debug\net6.0\ref\Cvičení 28. 11..dll

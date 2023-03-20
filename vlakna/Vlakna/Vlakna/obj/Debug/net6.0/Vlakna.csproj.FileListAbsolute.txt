@@ -1,0 +1,15 @@
+M:\C3b-PV\vlakna\Vlakna\Vlakna\bin\Debug\net6.0\Vlakna.exe
+M:\C3b-PV\vlakna\Vlakna\Vlakna\bin\Debug\net6.0\Vlakna.deps.json
+M:\C3b-PV\vlakna\Vlakna\Vlakna\bin\Debug\net6.0\Vlakna.runtimeconfig.json
+M:\C3b-PV\vlakna\Vlakna\Vlakna\bin\Debug\net6.0\Vlakna.dll
+M:\C3b-PV\vlakna\Vlakna\Vlakna\bin\Debug\net6.0\Vlakna.pdb
+M:\C3b-PV\vlakna\Vlakna\Vlakna\obj\Debug\net6.0\Vlakna.csproj.AssemblyReference.cache
+M:\C3b-PV\vlakna\Vlakna\Vlakna\obj\Debug\net6.0\Vlakna.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-PV\vlakna\Vlakna\Vlakna\obj\Debug\net6.0\Vlakna.AssemblyInfoInputs.cache
+M:\C3b-PV\vlakna\Vlakna\Vlakna\obj\Debug\net6.0\Vlakna.AssemblyInfo.cs
+M:\C3b-PV\vlakna\Vlakna\Vlakna\obj\Debug\net6.0\Vlakna.csproj.CoreCompileInputs.cache
+M:\C3b-PV\vlakna\Vlakna\Vlakna\obj\Debug\net6.0\Vlakna.dll
+M:\C3b-PV\vlakna\Vlakna\Vlakna\obj\Debug\net6.0\refint\Vlakna.dll
+M:\C3b-PV\vlakna\Vlakna\Vlakna\obj\Debug\net6.0\Vlakna.pdb
+M:\C3b-PV\vlakna\Vlakna\Vlakna\obj\Debug\net6.0\Vlakna.genruntimeconfig.cache
+M:\C3b-PV\vlakna\Vlakna\Vlakna\obj\Debug\net6.0\ref\Vlakna.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "cviceni2410/1.0.0": {
+        "runtime": {
+          "cviceni2410.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cviceni2410/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\bin\Debug\net6.0\Cviceni9.1.2023.exe
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\bin\Debug\net6.0\Cviceni9.1.2023.deps.json
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\bin\Debug\net6.0\Cviceni9.1.2023.runtimeconfig.json
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\bin\Debug\net6.0\Cviceni9.1.2023.dll
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\bin\Debug\net6.0\Cviceni9.1.2023.pdb
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\obj\Debug\net6.0\Cviceni9.1.2023.csproj.AssemblyReference.cache
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\obj\Debug\net6.0\Cviceni9.1.2023.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\obj\Debug\net6.0\Cviceni9.1.2023.AssemblyInfoInputs.cache
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\obj\Debug\net6.0\Cviceni9.1.2023.AssemblyInfo.cs
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\obj\Debug\net6.0\Cviceni9.1.2023.csproj.CoreCompileInputs.cache
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\obj\Debug\net6.0\Cviceni9.1.2023.dll
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\obj\Debug\net6.0\refint\Cviceni9.1.2023.dll
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\obj\Debug\net6.0\Cviceni9.1.2023.pdb
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\obj\Debug\net6.0\Cviceni9.1.2023.genruntimeconfig.cache
+M:\C3b-PV\Cviceni9.1.2023-soubory\Cviceni9.1.2023\Cviceni9.1.2023\obj\Debug\net6.0\ref\Cviceni9.1.2023.dll

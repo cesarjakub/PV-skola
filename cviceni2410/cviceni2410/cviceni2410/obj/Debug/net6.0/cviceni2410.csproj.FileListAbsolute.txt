@@ -1,0 +1,15 @@
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\obj\Debug\net6.0\cviceni2410.csproj.AssemblyReference.cache
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\obj\Debug\net6.0\cviceni2410.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\obj\Debug\net6.0\cviceni2410.AssemblyInfoInputs.cache
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\obj\Debug\net6.0\cviceni2410.AssemblyInfo.cs
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\obj\Debug\net6.0\cviceni2410.csproj.CoreCompileInputs.cache
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\bin\Debug\net6.0\cviceni2410.exe
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\bin\Debug\net6.0\cviceni2410.deps.json
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\bin\Debug\net6.0\cviceni2410.runtimeconfig.json
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\bin\Debug\net6.0\cviceni2410.dll
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\bin\Debug\net6.0\cviceni2410.pdb
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\obj\Debug\net6.0\cviceni2410.dll
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\obj\Debug\net6.0\refint\cviceni2410.dll
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\obj\Debug\net6.0\cviceni2410.pdb
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\obj\Debug\net6.0\cviceni2410.genruntimeconfig.cache
+M:\C3b-VA\cviceni2410\cviceni2410\cviceni2410\obj\Debug\net6.0\ref\cviceni2410.dll

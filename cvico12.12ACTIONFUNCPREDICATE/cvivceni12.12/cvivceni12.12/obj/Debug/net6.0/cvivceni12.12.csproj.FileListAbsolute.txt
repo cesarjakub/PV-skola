@@ -1,0 +1,15 @@
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\obj\Debug\net6.0\cvivceni12.12.csproj.AssemblyReference.cache
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\obj\Debug\net6.0\cvivceni12.12.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\obj\Debug\net6.0\cvivceni12.12.AssemblyInfoInputs.cache
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\obj\Debug\net6.0\cvivceni12.12.AssemblyInfo.cs
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\obj\Debug\net6.0\cvivceni12.12.csproj.CoreCompileInputs.cache
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\bin\Debug\net6.0\cvivceni12.12.exe
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\bin\Debug\net6.0\cvivceni12.12.deps.json
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\bin\Debug\net6.0\cvivceni12.12.runtimeconfig.json
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\bin\Debug\net6.0\cvivceni12.12.dll
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\bin\Debug\net6.0\cvivceni12.12.pdb
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\obj\Debug\net6.0\cvivceni12.12.dll
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\obj\Debug\net6.0\refint\cvivceni12.12.dll
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\obj\Debug\net6.0\cvivceni12.12.pdb
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\obj\Debug\net6.0\cvivceni12.12.genruntimeconfig.cache
+M:\C3b-PV\cvico12.12ACTIONFUNCPREDICATE\cvivceni12.12\cvivceni12.12\obj\Debug\net6.0\ref\cvivceni12.12.dll

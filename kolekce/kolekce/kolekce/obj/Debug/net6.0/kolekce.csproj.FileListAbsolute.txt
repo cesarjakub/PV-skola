@@ -1,0 +1,15 @@
+M:\C3b-VA\kolekce\kolekce\kolekce\bin\Debug\net6.0\kolekce.exe
+M:\C3b-VA\kolekce\kolekce\kolekce\bin\Debug\net6.0\kolekce.deps.json
+M:\C3b-VA\kolekce\kolekce\kolekce\bin\Debug\net6.0\kolekce.runtimeconfig.json
+M:\C3b-VA\kolekce\kolekce\kolekce\bin\Debug\net6.0\kolekce.dll
+M:\C3b-VA\kolekce\kolekce\kolekce\bin\Debug\net6.0\kolekce.pdb
+M:\C3b-VA\kolekce\kolekce\kolekce\obj\Debug\net6.0\kolekce.csproj.AssemblyReference.cache
+M:\C3b-VA\kolekce\kolekce\kolekce\obj\Debug\net6.0\kolekce.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-VA\kolekce\kolekce\kolekce\obj\Debug\net6.0\kolekce.AssemblyInfoInputs.cache
+M:\C3b-VA\kolekce\kolekce\kolekce\obj\Debug\net6.0\kolekce.AssemblyInfo.cs
+M:\C3b-VA\kolekce\kolekce\kolekce\obj\Debug\net6.0\kolekce.csproj.CoreCompileInputs.cache
+M:\C3b-VA\kolekce\kolekce\kolekce\obj\Debug\net6.0\kolekce.dll
+M:\C3b-VA\kolekce\kolekce\kolekce\obj\Debug\net6.0\refint\kolekce.dll
+M:\C3b-VA\kolekce\kolekce\kolekce\obj\Debug\net6.0\kolekce.pdb
+M:\C3b-VA\kolekce\kolekce\kolekce\obj\Debug\net6.0\kolekce.genruntimeconfig.cache
+M:\C3b-VA\kolekce\kolekce\kolekce\obj\Debug\net6.0\ref\kolekce.dll
