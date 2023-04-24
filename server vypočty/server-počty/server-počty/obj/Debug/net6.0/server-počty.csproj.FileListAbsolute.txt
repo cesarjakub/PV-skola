@@ -1,0 +1,15 @@
+D:\server\server vypočty\server-počty\server-počty\bin\Debug\net6.0\server-počty.exe
+D:\server\server vypočty\server-počty\server-počty\bin\Debug\net6.0\server-počty.deps.json
+D:\server\server vypočty\server-počty\server-počty\bin\Debug\net6.0\server-počty.runtimeconfig.json
+D:\server\server vypočty\server-počty\server-počty\bin\Debug\net6.0\server-počty.dll
+D:\server\server vypočty\server-počty\server-počty\bin\Debug\net6.0\server-počty.pdb
+D:\server\server vypočty\server-počty\server-počty\obj\Debug\net6.0\server-počty.csproj.AssemblyReference.cache
+D:\server\server vypočty\server-počty\server-počty\obj\Debug\net6.0\server-počty.GeneratedMSBuildEditorConfig.editorconfig
+D:\server\server vypočty\server-počty\server-počty\obj\Debug\net6.0\server-počty.AssemblyInfoInputs.cache
+D:\server\server vypočty\server-počty\server-počty\obj\Debug\net6.0\server-počty.AssemblyInfo.cs
+D:\server\server vypočty\server-počty\server-počty\obj\Debug\net6.0\server-počty.csproj.CoreCompileInputs.cache
+D:\server\server vypočty\server-počty\server-počty\obj\Debug\net6.0\server-počty.dll
+D:\server\server vypočty\server-počty\server-počty\obj\Debug\net6.0\refint\server-počty.dll
+D:\server\server vypočty\server-počty\server-počty\obj\Debug\net6.0\server-počty.pdb
+D:\server\server vypočty\server-počty\server-počty\obj\Debug\net6.0\server-počty.genruntimeconfig.cache
+D:\server\server vypočty\server-počty\server-počty\obj\Debug\net6.0\ref\server-počty.dll
