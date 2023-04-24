@@ -1,0 +1,15 @@
+D:\server\17.4-server\Server-17.4\Server-17.4\bin\Debug\net6.0\Server-17.4.exe
+D:\server\17.4-server\Server-17.4\Server-17.4\bin\Debug\net6.0\Server-17.4.deps.json
+D:\server\17.4-server\Server-17.4\Server-17.4\bin\Debug\net6.0\Server-17.4.runtimeconfig.json
+D:\server\17.4-server\Server-17.4\Server-17.4\bin\Debug\net6.0\Server-17.4.dll
+D:\server\17.4-server\Server-17.4\Server-17.4\bin\Debug\net6.0\Server-17.4.pdb
+D:\server\17.4-server\Server-17.4\Server-17.4\obj\Debug\net6.0\Server-17.4.csproj.AssemblyReference.cache
+D:\server\17.4-server\Server-17.4\Server-17.4\obj\Debug\net6.0\Server-17.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\server\17.4-server\Server-17.4\Server-17.4\obj\Debug\net6.0\Server-17.4.AssemblyInfoInputs.cache
+D:\server\17.4-server\Server-17.4\Server-17.4\obj\Debug\net6.0\Server-17.4.AssemblyInfo.cs
+D:\server\17.4-server\Server-17.4\Server-17.4\obj\Debug\net6.0\Server-17.4.csproj.CoreCompileInputs.cache
+D:\server\17.4-server\Server-17.4\Server-17.4\obj\Debug\net6.0\Server-17.4.dll
+D:\server\17.4-server\Server-17.4\Server-17.4\obj\Debug\net6.0\refint\Server-17.4.dll
+D:\server\17.4-server\Server-17.4\Server-17.4\obj\Debug\net6.0\Server-17.4.pdb
+D:\server\17.4-server\Server-17.4\Server-17.4\obj\Debug\net6.0\Server-17.4.genruntimeconfig.cache
+D:\server\17.4-server\Server-17.4\Server-17.4\obj\Debug\net6.0\ref\Server-17.4.dll
